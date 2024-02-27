@@ -1,0 +1,1 @@
+# JS-map-Common-Function-
